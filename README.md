@@ -92,7 +92,3 @@ Outputs/
     SCHEMATIC.png
     L1-SIG.png
     L2-GND.png
-
-Safety / Design Note
-
-Designed & engineered by Brandon Shelly
